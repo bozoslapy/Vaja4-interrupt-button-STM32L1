@@ -1,6 +1,6 @@
 # Vaja4-interrupt-button-STM32L1
 
-Komentar na delovanje --> Koda nama ni delala hujših preglavic vendar je moj partner pri ukazu void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin) zamenjal črki in zato nama koda ni delovala. Tako nisva dobila odziva zelene ledice. Zamenjal je besedo EXTI v EXIT. 
+KOMENTAR NA DELOVANJE --> Koda nama ni delala hujših preglavic vendar je moj partner pri ukazu void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin) zamenjal črki in zato nama koda ni delovala. Tako nisva dobila odziva zelene ledice. Zamenjal je besedo EXTI v EXIT. 
 
 ODGOVORI NA VPRAŠANJA -->
 
