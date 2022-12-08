@@ -18,6 +18,8 @@ Koliko znaša (v mili sekundah) zapisana zakasnitev, ki jo proizvede zanka for -
 
 3.f) V to zanko dodajte ukaz za zakasnitev z funkcijo Delay iz knjižnice HAL, in sicer pol sekunde (glej vaja0a) --> HAL_Delay(500);
 
-Komentar na delovanje --> Koda nama ni delala hujših preglavic vendar je moj partner pri ukazu void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin) zamenjal črki in zato nama koda ni delovala. Tako nisva dobila odziva zelene ledice. Zamenjal je v besedi EXTI v EXIT.
+Komentar na delovanje --> Koda nama ni delala hujših preglavic vendar je moj partner pri ukazu void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin) zamenjal črki in zato nama koda ni delovala. Tako nisva dobila odziva zelene ledice. Zamenjal je besedo EXTI v EXIT. 
 
-
+![Mikroprocesor]()
+![Slika vezja]()
+![Posnetek delovanja]()
