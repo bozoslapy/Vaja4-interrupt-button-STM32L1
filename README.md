@@ -22,4 +22,4 @@ Komentar na delovanje --> Koda nama ni delala hujših preglavic vendar je moj pa
 
 ![Mikroprocesor](https://raw.githubusercontent.com/bozoslapy/Vaja4-interrupt-button-STM32L1/90ef2f4b70a8dd5ac03f4841e41f66e7447152b4/pinout%204.PNG)
 ![Slika vezja](https://raw.githubusercontent.com/bozoslapy/Vaja4-interrupt-button-STM32L1/d9fa6cbd6677b1e56a2c8a92892f928637ae3a6d/IMG_0408.jpg)
-![Posnetek delovanja]()
+![Posnetek delovanja](https://github.com/bozoslapy/Vaja4-interrupt-button-STM32L1/commit/feaf5b0ba0e6f112f633b9f08363b3ac9e7cf298)
